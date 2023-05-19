@@ -1,4 +1,3 @@
-# tax_checker_bot
+# Running
 
-**Running**
 python bot.py
